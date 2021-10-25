@@ -1,0 +1,17 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+*.env
+*.pb.go
+hubs-cms-go
+coverage/
+docs/
+vendor/
+gen/
+.idea/
+**/.DS_Store
+.python-version
